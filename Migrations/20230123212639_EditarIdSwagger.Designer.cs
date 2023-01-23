@@ -12,8 +12,8 @@ using TrilhaApiDesafio.Context;
 namespace TrilhaApiDesafio.Migrations
 {
     [DbContext(typeof(OrganizadorContext))]
-    [Migration("20230122195525_CriacaoContexto")]
-    partial class CriacaoContexto
+    [Migration("20230123212639_EditarIdSwagger")]
+    partial class EditarIdSwagger
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

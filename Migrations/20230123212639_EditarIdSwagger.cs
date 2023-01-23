@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace TrilhaApiDesafio.Migrations
 {
     /// <inheritdoc />
-    public partial class CriacaoContexto : Migration
+    public partial class EditarIdSwagger : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
